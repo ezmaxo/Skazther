@@ -24,13 +24,13 @@ This is the centralized location for:
 Stay up-to-date with video walkthroughs, previews, and mod showcases:
 
 - 🎮 **GTA San Andreas Mods:**  
-  [https://www.youtube.com/channel/UCL8hGwrtkFUTfgeFOwKx7Lg](https://www.youtube.com/channel/UCL8hGwrtkFUTfgeFOwKx7Lg)
+  [GTA SA MODS CHANNEL](https://www.youtube.com/channel/UCL8hGwrtkFUTfgeFOwKx7Lg)
 
 - 🧱 **Minecraft Mods & Tutorials:**  
-  [https://www.youtube.com/channel/UC7Sgjl-P_YztatA-pJFE-kg](https://www.youtube.com/channel/UC7Sgjl-P_YztatA-pJFE-kg)
+  [MINECRAFT MODS CHANNEL](https://www.youtube.com/channel/UC7Sgjl-P_YztatA-pJFE-kg)
 
 - 🤖 **Roblox Scripts & GUIs:**  
-  [https://www.youtube.com/channel/UC8a8n-s-YyBgTZecleOrlDQ](https://www.youtube.com/channel/UC8a8n-s-YyBgTZecleOrlDQ)
+  [ROBLOX SCRIPT CHANNEL](https://www.youtube.com/channel/UC8a8n-s-YyBgTZecleOrlDQ)
 
 ---
 
