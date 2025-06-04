@@ -1,35 +1,51 @@
-# 👋 Welcome to Skazther's GitHub!
+# 📁 Skazther's Official Repository
 
-## 🔗 Main Mod & Script Hub – [Skazther Blogspot](https://skazther.blogspot.com/)
-
-🎯 **Looking for downloads? This is the main place!**  
-I upload all **GTA San Andreas mods**, **Minecraft mods**, and **Roblox scripts** with proper info and safe download links on my Blogger site. No ads, no pop-ups — just clean and direct content for you.
+Welcome to the official GitHub hub for all modding content provided by **Skazther**.  
+Here you'll find verified access points to my latest game mods, scripts, and community resources.
 
 ---
 
-## 📺 My YouTube Channels
+## 🔗 Primary Download Hub
 
-### 🎮 GTA San Andreas Mods  
-Watch tutorials, reviews, and gameplay of awesome GTA SA mods:  
-🔗 [GTA SA Mods Channel](https://www.youtube.com/channel/UCL8hGwrtkFUTfgeFOwKx7Lg)
+To access all available downloads, visit my official Blogger website:  
+👉 **[Skazther Blog – All Mods & Scripts](https://skazther.blogspot.com/)** 👈
 
-### 🧱 Minecraft Mods & Tutorials  
-Find cool Minecraft mods and how to install them easily:  
-🔗 [Minecraft Mods Channel](https://www.youtube.com/channel/UC7Sgjl-P_YztatA-pJFE-kg)
+This is the centralized location for:
+- ✅ GTA San Andreas Mods  
+- ✅ Minecraft Mods  
+- ✅ Roblox Scripts & GUIs
 
-### 🤖 Roblox Scripts & GUIs  
-Explore powerful Roblox scripts, GUI showcases, and key systems:  
-🔗 [Roblox Scripts Channel](https://www.youtube.com/channel/UC7Sgjl-P_YztatA-pJFE-kg)
+> ⚠️ No files are hosted on GitHub. All downloads are securely redirected via the blog.
 
 ---
 
-## 💬 Join the Community
+## 🎥 YouTube Channels
 
-Got questions, need help, or want updates faster?  
-Join my Discord server and be part of the Skazther community:  
-🔗 [Join on Discord](https://discord.gg/J7ANVGaEWx)
+Stay up-to-date with video walkthroughs, previews, and mod showcases:
+
+- 🎮 **GTA San Andreas Mods:**  
+  [https://www.youtube.com/channel/UCL8hGwrtkFUTfgeFOwKx7Lg](https://www.youtube.com/channel/UCL8hGwrtkFUTfgeFOwKx7Lg)
+
+- 🧱 **Minecraft Mods & Tutorials:**  
+  [https://www.youtube.com/channel/UC7Sgjl-P_YztatA-pJFE-kg](https://www.youtube.com/channel/UC7Sgjl-P_YztatA-pJFE-kg)
+
+- 🤖 **Roblox Scripts & GUIs:**  
+  [https://www.youtube.com/channel/UC8a8n-s-YyBgTZecleOrlDQ](https://www.youtube.com/channel/UC8a8n-s-YyBgTZecleOrlDQ)
 
 ---
 
-Thanks for visiting my GitHub!  
-Stay connected for the latest mod uploads and script content. 🚀
+## 💬 Community Support
+
+Join our growing Discord community for direct support, feedback, and script updates:  
+🔗 [https://discord.gg/J7ANVGaEWx](https://discord.gg/J7ANVGaEWx)
+
+---
+
+## 📌 Note
+
+⚠️ **Please note:**  
+This GitHub page does not host any files directly. It only contains official links to my blog, where all mods and scripts are posted with proper details.
+
+To download anything, simply visit the blog linked above.
+
+This helps keep everything organized, clean, and safe for everyone — including platforms like YouTube.
