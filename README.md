@@ -39,7 +39,7 @@ Here you’ll find trusted download links for all the mods, scripts, and game co
 
 ## 🌐 Join My Discord:
 Need help or want updates early? Join our community:
-👉 [https://discord.gg/J7ANVGaEWx](https://discord.gg/J7ANVGaEWx)
+👇 [https://discord.gg/J7ANVGaEWx](https://discord.gg/J7ANVGaEWx)
 
 ---
 
