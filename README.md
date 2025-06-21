@@ -1,62 +1,70 @@
-# 🎮 Sahil's Mod Hub – Free Mods, Scripts & Games
+# 🔥 Skazther Mods & Scripts Hub
 
-> 📌 **Visit My Official Blogger Website for All Downloads, Mods & Content:**  
-> 🔗 [🚀 Click Here to Access All Mods, Scripts, Games & Movies](https://skazther.blogspot.com/?m=1)
-
----
-
-Welcome to my official GitHub hub! I provide high-quality, tested, and safe modded content for popular games like **GTA San Andreas**, **Minecraft**, and **Roblox**.  
-You’ll also find **free Android games**, **premium apps**, and even **movies, anime, and series** — all available via my Blogger website.
+Welcome to my official GitHub repo!  
+Here you’ll find trusted download links for all the mods, scripts, and game content I showcase on my YouTube channels and Blogger site.
 
 ---
 
-## 🌐 My Platforms
+## 📌 What I Provide:
 
-- 📱 **GTA San Andreas Mods YouTube Channel**  
-  🔗 [Click Here](https://www.youtube.com/channel/UCL8hGwrtkFUTfgeFOwKx7Lg)
-
-- 🧱 **Minecraft Mods YouTube Channel**  
-  🔗 [Click Here](https://www.youtube.com/channel/UC7Sgjl-P_YztatA-pJFE-kg)
-
-- 🤖 **Roblox Script Youtube Channel**  
-  🔗 [Click Here](https://www.youtube.com/channel/UC8a8n-s-YyBgTZecleOrlDQ)
-
-- 💬 **Join Our Discord Server**  
-  🔗 [Click Here](https://discord.gg/J7ANVGaEWx)
+- 🟢 GTA San Andreas Mods (Android)
+- 🟣 Minecraft Add-ons & Mods (Android)
+- 🔴 Roblox Scripts (Android/iOS)
+- 🎬 Free Movies, Anime, and Series
+- 🕹️ Paid Android Games – 100% Free
+- 🔒 All files are hosted via trusted URL shorteners only
 
 ---
 
-## 📂 What You’ll Find
-
-- ✅ **GTA SA Mods** – Cleo mods, cheat menus, total overhauls for Android.
-- ✅ **Minecraft Addons** – Custom textures, behavior packs, shader & survival tools.
-- ✅ **Roblox Scripts** – GUI-based powerful scripts & hacks for mobile players.
-- ✅ **Free Android Games** – Unlocked premium games, tested and safe.
-- ✅ **Movies & Series** – Hindi dubbed, English, Anime, all for free.
-- ✅ **SEO-friendly Blogger posts** – For fast loading and quick indexing.
-- ✅ **Secure Download Links** – Highlighted at top and bottom of every post.
+## 🔗 Visit My Blogger Website
+👉 [Click Here to Explore All Mods, Scripts & Games](https://skazther.blogspot.com)
 
 ---
 
-## 🚀 How It’s Structured
+## 📺 My YouTube Channels:
 
-- 🔐 **No direct APK/files hosted on GitHub**
-- 🔗 **All download links are safely shortened**
-- 📄 **Each blog post includes:**
-  - Animated FAQ section (➤ style)
-  - Clear installation instructions
-  - Game info, features, and smooth layout
-- 🔎 **SEO-optimized 1000+ word articles** to help you find what you need faster
+### 🧱 Addonary (Minecraft Mods):
+- Addonary-main: [https://www.youtube.com/channel/UCl6CoUlIByODD7sLllGG1Pw](https://www.youtube.com/channel/UCl6CoUlIByODD7sLllGG1Pw)
+- Addonary-backup: [https://www.youtube.com/channel/UC7Sgjl-P_YztatA-pJFE-kg](https://www.youtube.com/channel/UC7Sgjl-P_YztatA-pJFE-kg)
 
----
+### 🧠 Skazther (Roblox Scripts):
+- Skazther-main: [https://www.youtube.com/channel/UCGGFXu0KH3US9kKozrG1HIg](https://www.youtube.com/channel/UCGGFXu0KH3US9kKozrG1HIg)
+- Skazther-backup: [https://www.youtube.com/channel/UC8a8n-s-YyBgTZecleOrlDQ](https://www.youtube.com/channel/UC8a8n-s-YyBgTZecleOrlDQ)
 
-## 💡 Disclaimer
-
-All content provided is for **educational and informational purposes only**.  
-We don’t host any copyrighted material. For any removal requests or legal concerns, reach out via Discord.
+### 🎮 SanFreak (GTA SA Mods):
+- SanFreak-main: *(Coming Soon)*
+- SanFreak-backup: [https://www.youtube.com/channel/UCL8hGwrtkFUTfgeFOwKx7Lg](https://www.youtube.com/channel/UCL8hGwrtkFUTfgeFOwKx7Lg)
 
 ---
 
-## ❤️ Stay Updated
+## 🌐 Join My Discord:
+Need help or want updates early? Join our community:
+👉 [https://discord.gg/J7ANVGaEWx](https://discord.gg/J7ANVGaEWx)
 
-Follow my channels and Discord for regular updates, new releases, and instant help from the community.
+---
+
+## 🧠 How It Works:
+
+All my scripts and mod files are shared via my Blogger posts.  
+Each post includes:
+- A direct download link (using shorteners)
+- Full setup/installation guide
+- Key system (only for some scripts)
+- Troubleshooting steps & FAQs
+
+---
+
+## ❗ Important Notes:
+
+- No external ads, misleading links, or malware
+- Every post is SEO-optimized and structured for easy reading
+- I don’t host pirated PC games, only Android content
+- Posts always include key links both at the top and bottom
+- FAQs are interactive, with collapsible sections in Blogger
+
+---
+
+## 🤝 Support Me:
+
+If you enjoy my content, subscribe to any of my channels and drop a like!  
+Your support motivates me to keep bringing you free, high-quality content. 💖
