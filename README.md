@@ -28,11 +28,11 @@ Here you’ll find trusted download links for all the mods, scripts, and game co
 - Addonary-backup: [https://www.youtube.com/channel/UC7Sgjl-P_YztatA-pJFE-kg](https://www.youtube.com/channel/UC7Sgjl-P_YztatA-pJFE-kg)
 
 ### 🧠 Skazther (Roblox Scripts):
-- Skazther-main: [https://www.youtube.com/channel/UCGGFXu0KH3US9kKozrG1HIg](https://www.youtube.com/channel/UCGGFXu0KH3US9kKozrG1HIg)
+- Skazther-main: [https://www.youtube.com/channel/UCJFGLsnRXHIPd5jP6erMwNA](https://www.youtube.com/channel/UCJFGLsnRXHIPd5jP6erMwNA)
 - Skazther-backup: [https://www.youtube.com/channel/UC8a8n-s-YyBgTZecleOrlDQ](https://www.youtube.com/channel/UC8a8n-s-YyBgTZecleOrlDQ)
 
 ### 🎮 SanFreak (GTA SA Mods):
-- SanFreak-main: *(Coming Soon)*
+- SanFreak-main: [https://www.youtube.com/channel/UCGGFXu0KH3US9kKozrG1HIg](https://www.youtube.com/channel/UCGGFXu0KH3US9kKozrG1HIg)
 - SanFreak-backup: [https://www.youtube.com/channel/UCL8hGwrtkFUTfgeFOwKx7Lg](https://www.youtube.com/channel/UCL8hGwrtkFUTfgeFOwKx7Lg)
 
 ---
